@@ -34,10 +34,10 @@ valentine-to-ayin/
 ```
 git clone https://github.com/username/valentine-to-ayin.git
 cd valentine-to-ayin
-Sesuaikan Konten:
 ```
-3. Buka file customize.json.
-4. Ubah nilai-nilai berikut sesuai keinginan Anda:
+3. Sesuaikan Konten:
+4. Buka file customize.json.
+5. Ubah nilai-nilai berikut sesuai keinginan Anda:
 ```
 {
   "name": "Nama Penerima",
@@ -45,11 +45,11 @@ Sesuaikan Konten:
   "image": "URL Gambar"
 }
 ```
-5. Deploy ke GitHub Pages:
-6. Buka tab 'Settings' di repositori Anda.
-7. Gulir ke bawah ke bagian 'GitHub Pages'.
-8. Di bagian 'Source', pilih branch main dan folder /root.
-9. Klik 'Save'.
+6. Deploy ke GitHub Pages:
+7. Buka tab 'Settings' di repositori Anda.
+8. Gulir ke bawah ke bagian 'GitHub Pages'.
+9. Di bagian 'Source', pilih branch main dan folder /root.
+10. Klik 'Save'.
 Situs Anda akan tersedia di https://username.github.io/valentine-to-ayin/.
 
 ## 👤 Pembuat
